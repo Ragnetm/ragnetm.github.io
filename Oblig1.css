@@ -2,3 +2,20 @@ body {
     font-family: Cambria;
     color: green;
 }
+
+.navbar {
+    width: 100%;
+    background-color: rgb(196, 86, 196);
+     
+
+}
+
+.navbar a {
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+    padding-right: 20px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+}
