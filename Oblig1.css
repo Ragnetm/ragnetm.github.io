@@ -6,19 +6,26 @@ body {
 
 .navbar {
     width: 100%;
-    background-color: rgb(196, 86, 196);
+    background-color: transparent;
+    padding-top: 12px;
+    padding-bottom: 12px;
      
 
 }
 
-.navbar a {
+.navbar a{
+    text-decoration: none;
+    text-align: center;
     font-size: x-large;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: rgb(255, 255, 255);
-    padding-right: 20px;
-    overflow: hidden;
-    text-overflow: ellipsis;
+    color: rgb(73, 4, 4);
+    padding-right: 80px;
+    
+}
 
+.navbar a:hover{
+    color: black;
+    background-color: white;
 }
     
 
