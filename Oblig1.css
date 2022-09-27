@@ -18,7 +18,7 @@ body {
     text-align: center;
     font-size: 28px;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: rgb(73, 4, 4);
+    color: rgb(186, 79, 79);
     padding-right: 80px;
     
 }
@@ -83,4 +83,7 @@ h2 {
     font-family: cursive;
 }
 
-
+p1 {
+    font-size: 14px;
+    color: black;
+}
