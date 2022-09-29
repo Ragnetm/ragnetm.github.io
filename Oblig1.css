@@ -9,6 +9,7 @@ body {
     background-color: transparent;
     padding-top: 60px;
     padding-bottom: 12px;
+    text-align: center;
      
 
 }
@@ -57,5 +58,25 @@ p.one {
     display: inline-block;
     vertical-align: middle;
 
-    
+}
+
+.footer {
+    display: block;
+    background-color: antiquewhite;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.Åpningstider{
+    font-size:large;
+    text-align: center;
+    color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: solid, black;
+}
+
+p1 {
+    font-size: 20px;
 }
