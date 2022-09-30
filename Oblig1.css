@@ -4,32 +4,7 @@ body {
     background-color: white;
     text-align: center;
 }
-
-.navbar {
-    width: 100%;
-    background-color: transparent;
-    padding-top: 60px;
-    padding-bottom: 12px;
-    text-align: center;
-     
-}
-
-.navbar a{
-    text-decoration: none;
-    text-align: center;
-    font-size: 28px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color: rgb(186, 79, 79);
-    padding-right: 80px;
     
-}
-
-.navbar a:hover{
-    color: black;
-    background-color: white;
-}
-    
-
 h1 {
     font-family: cursive;
 }
@@ -58,23 +33,11 @@ p.one {
     text-align: center;
 }
 
- HEAD
-
-.header {
-    background-image: url("images/pastaheader.jpeg");
-    text-align: center;
-    height: 180px;
-    width: 1400px;
-    display: inline-block;
-    vertical-align: middle;
-
-}
 
 
 .footer {
     display: block;
     background-color: antiquewhite;
-    position: absolute;
     bottom: 0;
     width: 100%;
 }
@@ -83,11 +46,13 @@ p.one {
     font-size:large;
     text-align: center;
     color: black;
-    padding-top: 20px;
+    top: 200;
     padding-bottom: 20px;
-    border: solid, black;
+    
 }
 
-p1 {
+.p1 {
     font-size: 20px;
+    padding-top: 80px;
+    line-height: 50px;
 }
