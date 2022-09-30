@@ -70,7 +70,7 @@ header {
     background-size: cover;
     background-position: center center;
     top: 100px;
-    bottom: ;
+
     height: 28vh;
     width: 100%;
     position: fixed;
@@ -106,7 +106,6 @@ header {
     padding-top: 15px;
     padding-bottom: 15px;
     font-size: 22px;
-    font-family:
 }
 
 .Meny h2 {
@@ -115,7 +114,6 @@ header {
     padding-top: 10px;
     letter-spacing: 2px;
     padding-bottom: 10px;
-    font-family: ;
 }
 
 .Meny h3 {
