@@ -8,7 +8,7 @@ body {
 .navbar {
     width: 100%;
     background-color: transparent;
-    padding-top: 12px;
+    padding-top: 60px;
     padding-bottom: 12px;
     text-align: center;
      
@@ -33,6 +33,10 @@ body {
 h1 {
     font-family: cursive;
 }
+ 
+
+
+
 
 .Menytittel {
     font-family: cursive;
@@ -52,6 +56,18 @@ p.one {
 
 .Meny {
     text-align: center;
+}
+
+ HEAD
+
+.header {
+    background-image: url("images/pastaheader.jpeg");
+    text-align: center;
+    height: 180px;
+    width: 1400px;
+    display: inline-block;
+    vertical-align: middle;
+
 }
 
 
