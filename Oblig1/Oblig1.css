@@ -4,8 +4,9 @@
 }
 
 body {
-    font-family: Cambria;
     text-align: center;
+    background-color: white;
+
 }
 
 .wrapper{
@@ -87,7 +88,8 @@ header {
     opacity: 0.7;
     z-index: -1;
   }
-  .Banner h2{
+
+.Banner h2{
     padding-top: 5%;
     font-size: 80px;
     color: white;
@@ -109,18 +111,13 @@ header {
 }
 
 .Meny h2 {
+    font-style: italic;
     font-size: 40px;
     margin: 0;
     padding-top: 10px;
     letter-spacing: 2px;
     padding-bottom: 10px;
-}
-
-.Meny h3 {
-    font-size: 25px;
-    margin: 0;
-    padding-top: 15px;
-    letter-spacing: 2px;
+    color: #c0392b;
 }
     
 .footer {
@@ -140,12 +137,12 @@ header {
 
 .p1 {
     font-family: Cambria;
-    font-weight: 700;
+    font-weight: 200;
     width: 100%;
     height: 800px;
     position: relative;
     background-color: white;
-    top: 550px;
+    top: 450px;
     font-size: 40px;
     line-height: 50px;
 }
